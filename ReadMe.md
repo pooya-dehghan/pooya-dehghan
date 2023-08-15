@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im working on my software engineering skills<br>And im trying to be in a sufficient and progressive manner in software world<br><br>Looking forward to do projects which embrace beauty of software :)
+Im working on my software engineering skills<br>And im trying to be in a sufficient and progressive manner in software world Looking forward to do projects which embrace beauty of software :)
 
 
 ## 🌐 Socials:
