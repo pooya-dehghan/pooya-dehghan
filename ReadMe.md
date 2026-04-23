@@ -12,8 +12,25 @@ I’m particularly interested in fintech and financial systems, combining engine
 
 ## 💻 Tech Stack:
 
-[Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) [TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) [Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) [PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) [MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) [Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) [Kafka](https://img.shields.io/badge/kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white) [Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) [Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) [Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) [CI/CD](https://img.shields.io/badge/ci--cd-pipelines-blue?style=for-the-badge) [Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) [Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) [Vault](https://img.shields.io/badge/hashicorp-vault-000000?style=for-the-badge&logo=vault&logoColor=white) [Microservices](https://img.shields.io/badge/microservices-architecture-blue?style=for-the-badge)[Event-Driven](https://img.shields.io/badge/event--driven-systems-orange?style=for-the-badge) [Design Patterns](https://img.shields.io/badge/design-patterns-critical?style=for-the-badge) [Clean Architecture](https://img.shields.io/badge/clean-architecture-important?style=for-the-badge)
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/ci--cd-pipelines-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vault](https://img.shields.io/badge/hashicorp-vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Microservices](https://img.shields.io/badge/microservices-architecture-blue?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/event--driven-systems-orange?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/design-patterns-critical?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/clean-architecture-important?style=for-the-badge)
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=pooya-dehghan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
